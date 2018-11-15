@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "205049892354",
+    "firebase_url": "https://pushnotify-e1641.firebaseio.com",
+    "project_id": "pushnotify-e1641",
+    "storage_bucket": "pushnotify-e1641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205049892354:android:98312ee81761f121",
+        "android_client_info": {
+          "package_name": "dev.bitsmind.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205049892354-c6qjd91p7l3t3uistafq3rin0vucvbi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6RK3FHRNf_-ksI7bvBNFad1SB4ZLDA3c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
